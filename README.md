@@ -37,7 +37,7 @@ A simple, terminal-based tool to download entire YouTube playlists or single vid
 1. Open your terminal and navigate to the folder containing `yt.py`.
 2. Run the script:
    ```sh
-   python yt.py
+   python Video_download.py
    ```
 3. Follow the prompts:
    - Select download type: `1` for Playlist, `2` for Single Video
